@@ -1,6 +1,6 @@
 ## Demo
 
-[FRONTEND DEMO](https://616347119d810459a8d8b245--vibrant-goodall-0ae059.netlify.app/)
+[FRONTEND](https://616347119d810459a8d8b245--vibrant-goodall-0ae059.netlify.app/)
 
 ### Ödev 2 - Adam Asmaca Oyunu
 
